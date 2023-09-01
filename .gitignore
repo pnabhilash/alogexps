@@ -1,0 +1,10 @@
+ **/.idea/*
+ **/.DS_Store
+ .idea/misc.xml
+ .DS_Store
+ .gitignore
+*.xml
+*.iml
+.DS_Store
+*.class
+*.lst
